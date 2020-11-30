@@ -1,0 +1,91 @@
+body {
+  background-color: #eeeded;
+  color: #222;
+  line-height: 1.5;
+  font-family: sans-serif;
+  word-spacing: 2pt;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: #120078;
+  font-family: ubuntu;
+  text-align: left;
+}
+hr {
+  border-style: dotted;
+  margin: 2rem auto;
+  border-width: 5px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 4rem;
+  border-radius: 30px;
+  align-self: center;
+  font-size: 2.2rem;
+  color: #ec5858;
+  text-transform: uppercase;
+}
+.task4 {
+  text-align: center;
+}
+.task6 {
+  text-align: center;
+}
+p {
+  font-size: 1.2rem;
+  justify-content: center;
+}
+
+.task6 table,
+th,
+td {
+  border: 1px solid #120078;
+  border-collapse: collapse;
+  align-items: center;
+}
+.task6 th,
+td {
+  padding: 0.7rem;
+  text-align: center;
+}
+
+.task7 img {
+  width: 100%;
+  border-radius: 8px;
+}
+.task7 td {
+  height: 40%;
+  margin: 12px 12px 12px 12px;
+  border-radius: 8px;
+  width: 40%;
+  text-align: left;
+}
+.task7 table {
+  border-spacing: 10px;
+}
+.task7 li {
+  font-size: 14px;
+}
+.task1 p {
+  font-size: 13px;
+  text-align: right;
+  margin-right: 2%;
+  font-weight: normal;
+}
+
+/* Left page */
+
+a {
+  text-decoration: none;
+  color: #222222;
+}
+
+/* Right page */
